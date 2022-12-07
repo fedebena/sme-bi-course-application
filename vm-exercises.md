@@ -9,12 +9,12 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [x] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
+- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
 
 #### Learning Objective
 
@@ -22,7 +22,7 @@
 
 #### Context
 
-*YoY growth is a common calculation required by business leaders to asses the historical performance at a high level and spot areas for improvement. It is common to include these sort of comparisons in the quarterly and annual reports that listed companies are obliged to publish. The student will master how  to use quick table calculations to identify the best/worse stock from S&P 500 in terms of annual growth. *
+*YoY growth is a common calculation required by business leaders to asses the historical performance at a high level and spot areas for improvement. It is common to include these sort of comparisons in the quarterly and annual reports that listed companies are obliged to publish. The student will master how  to use quick table calculations to identify the best/worse stock from S&P 500 in terms of annual growth.*
 
 #### Steps to be executed by the student (max 6)
 
@@ -44,12 +44,12 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [x] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
+- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
 
 #### Learning Objective
 
