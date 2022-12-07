@@ -53,25 +53,29 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+*Compare the YTD quarterly sales performance and ccompute moving averages across categories *
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+*3 - Comparing YTD and moving averages is critical to assess the status of sales during year and facilitate decision makers to understand the feasability of their targets. *
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+1. Add Year and Quarter of Date to the Columns pane, and 2 Sold Units fields to the Rows pane 
+2. Add Country Code to the Color pane
+3. Add the YTD total quick table calculation to the (first) Sold Units field
+4. Add the Moving Average table calculation to the (second) Sold Units field
+5. Edit the table calculation to adjust the Previous periods parameters to 3
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*1. How many YTD units have been sold at the end of Q3 2018 in the country with more sales in 2018?*
+
+*2. What is the moving sales average of the last three quarters in Sweden at the end of Q3 2018 ?*
+
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+<img width="625" alt="Screenshot 2022-12-07 at 23 24 38" src="https://user-images.githubusercontent.com/47775887/206309865-42939a2e-fe11-4fad-ac8e-ee2c05197e13.png">
 
