@@ -18,27 +18,27 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+*Apply the Year over Year growth quick table calculation to a dataset to identify stocks with the highest average closing price*
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+*YoY growth is a common calculation required by business leaders to asses the historical performance at a high level and spot areas for improvement. It is common to include these sort of comparisons in the quarterly and annual reports that listed companies are obliged to publish. The student will master how  to use quick table calculations to identify the best/worse stock from S&P 500 in terms of annual growth. *
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+1. Add Date to the Columns pane and Name to the rows pane
+2. Add Close to the Columns pane and change the measure type to Average
+3. Add the quick table calculation Year over Year growth to AVG(Close) field
+4. Order the stocks by % Difference in Avg. Close increasing
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+* What is the stock with the lowest Year over Year growth of its average close price in 2016?*
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+*<img width="1313" alt="Screenshot 2022-12-07 at 22 08 14" src="https://user-images.githubusercontent.com/47775887/206296052-3cd20403-44e1-4187-91ff-214ed06782ff.png">*
 
 ## 2nd VM Exercise
 
