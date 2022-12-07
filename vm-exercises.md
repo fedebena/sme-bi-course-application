@@ -53,11 +53,11 @@
 
 #### Learning Objective
 
-*Compare the YTD quarterly sales performance and ccompute moving averages across categories *
+*Compare the YTD quarterly sales performance and ccompute moving averages across categories*
 
 #### Context
 
-*3 - Comparing YTD and moving averages is critical to assess the status of sales during year and facilitate decision makers to understand the feasability of their targets. *
+*Comparing YTD and moving averages is critical to assess the status of sales during year and facilitate decision makers to understand the feasability of their targets. Combining historical averages and YTD results can help business leaders to understand if annual target can be reached if the future performance will be in line with its hustorical average. An expert data professional needs to be comfortable plotting insightful charts to identify key YTD metrics and quickly compare average values.*
 
 #### Steps to be executed by the student (max 6)
 
